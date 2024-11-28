@@ -1,5 +1,4 @@
 <div style="font-family: 'Montserrat', sans-serif;">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=5000&pause=1000&color=FFA500&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+HELLO%2C+MY+NAME+is+Mandeke+Jacinto+Lela;I'm+25+Years+old+%E2%AD%90;I+am+from+Brazil+-+S%C3%A3o+Paulo+%F0%9F%92%9A;I'm+studying+Software+Engineering+%F0%9F%92%BB;Be+Welcome!+%F0%9F%98%8D)](https://git.io/typing-svg)
 
