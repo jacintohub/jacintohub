@@ -15,7 +15,7 @@ Sou apaixonado por transformar ideias em realidade através do código. Com form
 <a href="https://www.linkedin.com/in/mandekelela1998" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-<a href="https://www.instagram.com/_eujacinto_/" target="_blank">
+<a href="https://www.instagram.com/_eujacinto/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
 <a href="mailto:mandekelela@gmail.com">
